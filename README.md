@@ -15,3 +15,4 @@
 ### git merge "nome-branch"
 ### git push -d origin nome-branch
 ### git stash & git stash pop
+### git branch -d nome-branch
