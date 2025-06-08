@@ -12,3 +12,5 @@
 ### git blame README.md --> mostra quem e quando commitou linha a linha do arquivo
 ### git checkout -b "feature: análise com ia"
 ### git push --set-upstream origin branch-name --> para fazer push de branches
+### git merge "nome-branch"
+### git push -d origin nome-branch
