@@ -16,3 +16,6 @@
 ### git push -d origin nome-branch
 ### git stash & git stash pop
 ### git branch -d nome-branch
+### git revert HEAD --no-edit
+### git reset HEAD --hard
+### git push -f origin main
